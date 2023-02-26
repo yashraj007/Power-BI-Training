@@ -1,0 +1,114 @@
+Power BI -- BI tool Microsoft side
+  same as Tableau and QLik Sense
+
+Power BI 
+	1. ETl  -- Extract -- Tranform-- Load
+	2. Data Visualization  - process of converting your data into picture 
+	3. Create reporta and dashboard and App
+	4. You can share report and Dashboard with others as well
+
+
+Power BI 
+
+	1. Power BI Desktop  --- Complete design & developerment 
+	2. Power BI Service  ----is power bi cloud ---used to publish and share the reports
+	3. Power BI Mobile or cell phone  --------used to see the report 
+
+
+	4. Power BI Paginated report  -------SSRS 
+
+
+Power BI Dsktop ----is life time free
+service---- you need to have office 365 accunt -- 60 days free trial
+
+Liscence--
+	1. Pro
+	2. Permium per user 
+	3. Permium
+
+How to publish tehr peort
+
+desktop ----service -------nned to,ogin with same account
+
+
+Workspcae-----------folder
+
+TYpes of Workspace / folder:-
+
+	1. My Workspace ---if there is any report in this workspace---htne u can share using link btu can not ad duser to the folder
+	2 shared one ------if there is any report in this foler then 
+		two ways to share the report
+
+			1.as a link
+			2. add user to the folder
+
+
+if we publish the report to service
+	it will publish two things
+		1. report
+		2. data required for that report
+
+Types of view in workspace:-
+	1. List view
+	2. linage view
+
+
+POwer BI Roles
+
+	1. Admin -------------can do anyting
+	2. Member -----------------------------------can wrok on report ------------can add peole to workspace but only as member , contributor and view
+	3. Contributor------------------------------- can wor on report-------------can't add people to workspace
+	4. Viewer----------------can't do anythign except reading the report
+
+	***Member can't delete the peopsn from existing workspac
+
+
+Filtering
+	1. VIsula filter
+	2. page filter
+	3. report filer
+
+
+Life cycle of  bi report
+	
+	Step 1:-
+		we need to connect with client 
+	step 2:-
+		we need to get requirent
+
+	Note :- Step 1 and Step 2is called as requirment analysis
+
+	step 3:-
+		we need data 
+	Step 4:-
+		ETL
+
+		E-- Data extraction  ----proces of pulling data from source to target  --- requied step 
+				Source:- orcale excel, csv, ,etc
+				targte----Power bI 
+
+		Tranformation	-  Process of cleaning the data  ---optional step
+
+			Example:- 	renaming column , table, delet row and column, chani gdat types
+
+		L----Load-----process of loading cleaned or tranformed data to  target system  --- Required
+
+
+	Step 5:- Data modelling --- process of creating relationship between more than one tables with the help of primary and foriegn key
+	
+	Step 6:- Data visulaization ---- process of converting your data into pciture( it can be graph or table)
+	
+	Step 7 :- Data analysis ------- Pocess of finding informatin from yourt raw data
+		 Data analytics :- operation that we do to find the information
+		Example:- min, max , avg ,count, sum
+
+	Step 8:- Sharing- we need to place the report to come common or goabal place examle in pwer bi we publish to power bi srviec
+	
+	Step 9:- we need to share the preport with users 
+	
+	Step 10:- we need to mange prrmission as well
+
+		
+
+
+ 

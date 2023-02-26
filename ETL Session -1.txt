@@ -1,0 +1,18 @@
+Data Profiling   -   ETL testing of Data 
+
+
+
+1. Total No of table   -  Rquired 
+2. total no of column  -  Rquired 
+3. total no of rows    -  Rquired 
+
+4. name of tables --optional
+5. name of column -- optional
+
+
+6. Data Types of every columns  -  Rquired 
+
+7. Order of Columns
+
+
+
