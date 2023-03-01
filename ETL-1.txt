@@ -31,6 +31,48 @@ Rows Tranformation
 		b. Multi Select
 	2. Advnaced Filtering
 
+How to chnage the data data tyep
+
+How to replace a vlaue in column
+
+How to check the data quality of your column
+
+How to move the column aroudn in a table
+
+How to make a copy of an existing column
+
+How to remove dupplicate values from a column
+
+How to remove the errors
+
+How to transform the column values ( Ex:- upper case, lower case, etc)
+
+How to replace the errors
+
+How to spliet the column
+	1. Column split
+	2. rows split
+
+How to add date related column
+
+How to add mathematical caculaiton column
+
+example :-  a+b, a-b,a-c,a*c,a/c
+
+How to count the rows
+	1. count  = 03 rows 
+	2. distinct count = 02 rows
+
+Table Student
+	Student Name
+	Vivek
+	Vivek
+	Anand
+
+How to fill up and fill down
+
+Pivot and unpivot 
+
 
 Table Student
 
@@ -39,6 +81,10 @@ Student ID     Student Name
 1		Vivek
 2		Anand		
 3		Yash
+
+
+Column - total column number
+rows :- 998 ( when it cross 998 then it will say that you have 999+ rows)
 
 
 
