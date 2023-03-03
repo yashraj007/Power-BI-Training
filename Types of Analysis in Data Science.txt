@@ -1,0 +1,133 @@
+	      How to pick the right visuals for your analysis and report
+
+
+Sr. No. Types of Anaysis		Types of Charts 
+
+
+1.	Key Metrics 			KPI or card visulaization(single aggregated value)  ex:- sales =100$
+
+2.	Comparison Analysis		Bar Chart Ex:-  Sales by Team
+
+3.	Trend Analysis			Line Chart   Ex:- Sales during last 6 month or i years 
+
+4.	Frequency Analysis		Bar chart with Bins or Data Grouping
+
+
+5.	Ranking Analysis			Top N & Bottom N  & Ribbon Chart as well
+
+
+6.	Contribution Analysis		Pie Chart & Donut Chart   ex:-  5 person sales  100 $
+
+
+7.	To find ouliers                 Scatter plot chart   team --10 ---9 person salary is around 100 $   ----1 person ---1000$
+
+8.	Correlation Analysis		Scatter Plot chart   Exa:- salary --yar of exp
+
+
+9.	Summary				Table & Metrics Visual
+
+
+10.	Region/ Geogrphical Analysis	Maps
+
+=================================================
+
+Types of Measure(Formola)	
+	1. Implicit
+	2. Explict
+
+Drill Option:-
+	1. Drill up 
+	2. Drill Down
+
+Year
+Quarter
+Month
+Day
+
+
+Hierarchy
+	1. Implicit
+	2. Explit
+
+=================================================================
+use case 1:-
+
+
+if salary < 15 then it will display as red back ground
+else it will display as green back ground
+
+
+use case 2:-
+
+<= 15 -- red
+
+15 to <=30 --yellow
+
+31 to <=40  ----green
+
+
+case 3:-
+
+<= 30%  red
+>30 % - --green  31 to 40
+
+
+
+
+==============================================================
+
+1. How to add page
+2. How to rename pages
+3. How to delete page
+4. how to crate a copy of the report page
+5. How to crate workspace
+6.How to publish report from desktop to power bi serviec
+	a. publish to shard workpace
+	b. publish to personal workspace
+7. how to chage the  page size
+8. how to add back ground for the report
+	a. to relace the white background
+	b. we can add image on top of the white back ground
+	c. how to chage  the color of then back gound
+	
+9.slicer or filter:-
+	1. visual filter
+	2. page filter
+	3. report filter 
+setting:-
+	1. list ---mqke it as drop down
+	2. by feadult we can pick only one values
+
+
+	
+	
+
+
+
+
+============================================================
+
+Types of slicer ot filter
+
+Visual filter
+
+page filter
+
+reort filter
+
+how to lock adn unlock filter pan
+
+hwo to lock and unlock visuas filters
+jwo to hide and unhide visula filters
+
+chart elements
+ 1. cgart axix---x or y
+ 2. chart titel
+ 3. legend
+  4. values
+
+
+
+
+
+
