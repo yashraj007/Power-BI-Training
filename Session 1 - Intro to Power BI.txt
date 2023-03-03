@@ -35,11 +35,12 @@ Workspcae-----------folder
 
 TYpes of Workspace / folder:-
 
-	1. My Workspace ---if there is any report in this workspace---htne u can share using link btu can not ad duser to the folder
+	1. My Workspace ---if there is any report in this workspace---then u can share using link but can not ad duser to the folder
 	2 shared one ------if there is any report in this foler then 
+
 		two ways to share the report
 
-			1.as a link
+			1.as a link  --- when user is not partof the folder or workpace
 			2. add user to the folder
 
 
@@ -53,7 +54,7 @@ Types of view in workspace:-
 	2. linage view
 
 
-POwer BI Roles
+Power BI Roles
 
 	1. Admin -------------can do anyting
 	2. Member -----------------------------------can wrok on report ------------can add peole to workspace but only as member , contributor and view
@@ -61,10 +62,12 @@ POwer BI Roles
 	4. Viewer----------------can't do anythign except reading the report
 
 	***Member can't delete the peopsn from existing workspac
+	*** Member can not change the permission of any users in the workspace
+	*** Contributor and Views can't see the access tab
 
 
 Filtering
-	1. VIsula filter
+	1. Visula filter
 	2. page filter
 	3. report filer
 
@@ -106,7 +109,7 @@ Life cycle of  bi report
 	
 	Step 9:- we need to share the preport with users 
 	
-	Step 10:- we need to mange prrmission as well
+	Step 10:- we need to manage prrmission as well
 
 		
 
