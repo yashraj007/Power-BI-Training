@@ -1,0 +1,68 @@
+Filter as a graph---> Slicer
+
+
+Vies in slicer 
+	1. list view 
+	2. drop down
+	3. Title view
+
+selctiion ootions in slcier
+1. single  select
+2. multi selct 
+
+For nay grpah or slicer always try to have 3-5 data point in  bext baase 
+in worst case try to haev max 10 data point
+
+
+
+Filter types
+	1. visual filter
+	2. page filter
+	3. report filter
+
+
+
+1st issue 
+	 1. list view 
+		how to fix  - drop down or title
+2nd issue
+	single selct
+		how to fix :-  converted it to multi select
+3rd issue
+	multi select  -- we cna easily slect 3,,5,6, bu when we have 10k data hen it hard to pick all one by one
+	how to fix :- switched on the select all option
+
+4th issue
+	scrolling option when yu have too much dat point
+	how to fix:-	make you slicer as serachbale slicer
+
+condtions to make your slicer as serachable slicer
+	you column should have data types as text ot string
+
+
+Best parctices for slicer
+
+	1. if you column has 3-5 data point then you cna make your slicer as list view
+	2. if you column has  more than 5 data point then you can make your slicer as drop down
+	3. always give user mulit select option
+	4. always try to give user select all options
+	5. always try to give user search option in slicers
+	6. always try to sort your slicer by deafult as either ascending or desceonding
+
+Sorting in slicer
+How to clear the selected data in slicers
+
+**********************
+
+Slicer pane
+	1. Hide / Show filter area
+	2. I want user to see the visual, page, report filer but they shuld not be able to do chnage in slicer
+	3. lock and un lock the slicer
+	4.user can see the page and report filter but user should not be able to to see the visua filetr
+
+
+
+
+
+
+
